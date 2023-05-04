@@ -1,1 +1,1 @@
-# Kruskal_algorithm_
+# Kruskal-Algorithm
