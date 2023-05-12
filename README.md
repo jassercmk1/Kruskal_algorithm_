@@ -7,6 +7,8 @@ This process continues until all the vertices of the graph are included in the m
 The time complexity of Kruskal's algorithm is O(E log E) or O(E log V), where E is the number of edges and V is the number of vertices in the graph. This makes it an efficient algorithm for finding the minimum spanning tree of large graphs.
 
 Kruskal's algorithm has many practical applications, such as in network design, transportation planning, and image segmentation. Its simplicity and efficiency make it a popular algorithm.
+
+
 input_graph = {'A': [(3, 'D', 'A'), (3, 'C', 'A'), (2, 'B', 'A')],
                'B': [(2, 'A', 'B'), (4, 'C', 'B'), (3, 'E', 'B')],
                'C': [(3, 'A', 'C'), (5, 'D', 'C'), (1, 'E', 'C'), (4, 'B', 'C')],
